@@ -1,0 +1,161 @@
+﻿Patient_ID,name,Age,gender,Dosha_Imbalance,Health_Condition,address,contact_number,prakriti,vikriti,patient_medical_history
+1,Victoria Mckay,57,Male,Kapha,Digestive Issues,"92053 Louis Circle, South Edwardview, NH 65433",7304352782,Vata-Pitta,Pitta,Previous surgery
+2,Mr. Todd Meyer,40,Female,Kapha,Healthy,"87234 Stephanie Vista, Lake Samanthatown, IN 02985",8436635665,Pitta,Pitta,Allergic to penicillin
+3,Robert Martin,10,Male,Pitta,Arthritis,"3064 Chandler Harbor, Stevenview, IN 48842",2508477326,Pitta-Kapha,Kapha,No significant history
+4,Christopher Taylor,82,Female,Kapha,Hypertension,"6935 Berger River Apt. 830, Michaelside, KY 72510",3839290096,Vata-Pitta,Pitta,No significant history
+5,Monica Crawford,66,Other,Kapha,Diabetes,"520 Jose Flat, South Brent, NE 93554",41867528,Pitta-Kapha,Vata,Post-surgery recovery
+6,Jeffrey Brown,87,Female,Pitta,Depression,"84880 Keith Square, Ashleyton, GA 10093",3900728230,Kapha,Kapha,Family history of heart disease
+7,Jessica Davis,67,Female,None,Asthma,"468 Jennifer Lane Apt. 026, East Michael, VA 21411",3244348629,Vata-Kapha,Vata,Post-surgery recovery
+8,Jonathan Jacobs,59,Other,Vata,Arthritis,"985 Robert Plaza Suite 251, Lake Anna, MS 07865",1256971419,Vata,Pitta,Chronic digestive issues
+9,Shawn Martin,30,Other,None,Asthma,"06793 Kyle Rapids Suite 720, Gregoryview, MI 24326",9097929818,Pitta,Pitta,History of obesity treatment
+10,Jamie Knight,77,Male,Kapha,Arthritis,"92692 Johnson Isle, Colemanton, NC 89471",7489813639,Vata,Balanced,History of anxiety disorder
+11,Robert Cox,31,Female,Kapha,Asthma,"9972 Elizabeth Way, Jessicatown, IA 98675",2841086961,Vata-Pitta,Kapha,History of arthritis
+12,Russell Ward,57,Female,Pitta,Hypertension,"3496 Daniel Ville, New Lori, GA 80962",9905405927,Vata,Vata,Allergic to penicillin
+13,Steven Richardson,60,Other,None,Hypertension,"682 Smith Walk Apt. 784, Thomasmouth, NE 35471",4271126353,Pitta,Kapha,Chronic digestive issues
+14,Erik Smith,82,Female,Kapha,Obesity,"4727 Mcdowell Fall Apt. 546, North Aaron, VA 68329",4079451441,Vata-Kapha,Kapha,History of hypertension
+15,Stacy Clark,44,Male,Vata,Hypertension,"1431 Ryan Village Apt. 243, Jessicashire, IL 63612",7139181695,Vata-Pitta,Pitta,Allergic to penicillin
+16,Hunter Williams,64,Male,Vata,Asthma,"PSC 1154, Box 3662, APO AE 23828",3301508267,Pitta-Kapha,Pitta,History of arthritis
+17,Jeremy Parsons,71,Other,Pitta,Asthma,"18942 Taylor Drives, Tammybury, UT 64443",743180084,Vata-Kapha,Vata,Previous surgery
+18,Patrick Hanna,90,Female,Pitta,Healthy,"73276 Smith Union, Mckenziehaven, HI 13875",6201562418,Kapha,Balanced,History of anxiety disorder
+19,Stephen Lopez,11,Female,Vata,Anxiety,"PSC 2079, Box 7662, APO AA 06918",2854350440,Pitta-Kapha,Kapha,History of anxiety disorder
+20,Edward Robinson,20,Male,Pitta,Healthy,"58603 Brown Square Suite 121, West Denisehaven, KS 29764",8552500976,Pitta-Kapha,Balanced,History of asthma
+21,Seth Hudson,54,Female,Pitta,Asthma,"31316 Jennifer Points, Finleyfurt, CO 27140",7121427062,Kapha,Kapha,History of asthma
+22,Helen Rogers,35,Female,Vata,Asthma,"7751 Michelle Curve, Garciaberg, WA 47527",3530097742,Pitta,Kapha,Allergic to penicillin
+23,Lauren Avery,76,Female,None,Diabetes,"3446 Castillo Mill, South Ryan, WI 65622",962386850,Pitta-Kapha,Vata,History of diabetes
+24,Renee Thompson,17,Female,Kapha,Healthy,"6983 Long Viaduct Apt. 053, Lake Carl, MO 55075",3938176702,Pitta-Kapha,Balanced,History of asthma
+25,Maxwell Bryan,16,Other,Pitta,Hypertension,"13596 Parker Port, Bookerberg, MT 35368",3827349738,Vata,Pitta,History of hypertension
+26,Adrian Thomas,75,Female,Vata,Healthy,"214 Estrada Falls, Lake Brendaton, DC 14088",2848257598,Vata-Pitta,Kapha,Recovering from recent illness
+27,Peter Lucero,11,Other,None,Depression,"977 Mendoza Hills, New Brittanystad, KS 94482",5013462092,Pitta-Kapha,Pitta,No significant history
+28,Pamela Jones,69,Other,Pitta,Asthma,"2318 David Drive Suite 835, New Bryan, NE 31825",9821545804,Kapha,Vata,History of depression
+29,Heather Meza,26,Male,Kapha,Healthy,"9804 Allen Estate Apt. 010, Port Joelview, MS 46064",6468544508,Vata-Pitta,Balanced,Previous surgery
+30,Jason Dennis,80,Female,None,Depression,"95407 Destiny Station, Brittneymouth, UT 58952",7385567699,Vata-Kapha,Vata,Family history of heart disease
+31,Roberto Cooper,88,Female,Kapha,Anxiety,"351 Nancy Forge Suite 793, Smithton, ND 67792",2201845110,Pitta-Kapha,Kapha,Allergic to penicillin
+32,Suzanne Terry,38,Male,Vata,Anxiety,"534 Russo Alley Apt. 727, Danielberg, NY 08123",774657795,Pitta-Kapha,Vata,History of asthma
+33,Steven Ross,17,Male,Vata,Anxiety,"6500 Courtney Estates Apt. 732, Mckinneyville, DE 17820",1636047856,Vata,Vata,Previous surgery
+34,Julie Howard,32,Other,Kapha,Diabetes,"534 Mccormick Route Apt. 972, West Peterview, KY 87403",9928132649,Vata,Kapha,History of diabetes
+35,Kenneth Meyer,47,Male,Pitta,Obesity,"14858 Jennifer Glens, Port Amberport, WY 68450",3796534190,Pitta-Kapha,Kapha,History of diabetes
+36,Leah Ho,59,Other,Kapha,Healthy,"2972 Laura Plaza Apt. 213, West Claudiaville, MN 86560",946706739,Vata-Pitta,Kapha,Post-surgery recovery
+37,David Cross,54,Other,Kapha,Digestive Issues,"267 Erin Pines, North Rebeccafurt, NE 25315",159097536,Pitta-Kapha,Kapha,Post-surgery recovery
+38,Stephen Berg,24,Female,Pitta,Asthma,"559 Ray Orchard Apt. 244, Lake Theresatown, OK 37812",621856358,Pitta,Pitta,History of obesity treatment
+39,Garrett Pugh,15,Other,Vata,Anxiety,"84583 Christopher Mountains, Port Justinmouth, IA 27416",5218086009,Vata-Pitta,Pitta,History of hypertension
+40,Danny Simon,57,Male,Vata,Asthma,"5864 Welch Square, Josephborough, MO 61668",4530684858,Kapha,Pitta,Family history of heart disease
+41,Leon Cooper,17,Female,None,Asthma,"95316 Martin Union Apt. 194, North Jonathan, IL 92426",3366932967,Vata-Pitta,Balanced,History of obesity treatment
+42,Kimberly Gibson,70,Male,None,Asthma,"4454 Marc Extensions, South Marymouth, IL 11735",4426679909,Kapha,Balanced,Allergic to penicillin
+43,Candace Hughes,24,Male,Kapha,Diabetes,"3078 David Mission Apt. 323, Joshuafort, NE 86491",6001874600,Vata-Pitta,Kapha,History of diabetes
+44,Theodore Navarro,63,Female,Pitta,Healthy,"03374 Elliott Prairie, East Briana, OR 09124",1507461641,Vata-Pitta,Kapha,History of asthma
+45,Jacqueline Baker,22,Other,Vata,Diabetes,"8862 Matthew Manors, Osborneborough, GA 56398",5977411309,Vata-Pitta,Balanced,Frequent migraines
+46,David Diaz,13,Female,Pitta,Asthma,"99488 David Mount Suite 942, Lisamouth, VA 75225",111247951,Pitta,Vata,History of depression
+47,Shawn Anderson,16,Other,Pitta,Depression,"4018 Michael Mountains, Guerrerostad, WY 81168",7194480263,Vata-Kapha,Kapha,History of diabetes
+48,Hailey Ruiz,66,Other,Kapha,Arthritis,"4843 Oconnor Locks, Davidmouth, DE 27688",106681056,Kapha,Pitta,Frequent migraines
+49,Lauren Carson,35,Other,Kapha,Digestive Issues,"578 Roberta Rue, East Kendra, MI 85539",9470557866,Pitta-Kapha,Kapha,No significant history
+50,Sarah Woods,27,Male,Pitta,Depression,"081 Martin Meadows, South Mary, MT 55745",3252254414,Vata-Pitta,Balanced,Previous surgery
+51,Devin Waller,47,Female,Kapha,Asthma,"58573 Danielle Locks Apt. 547, Kelseymouth, GA 12226",2070022601,Pitta-Kapha,Balanced,History of diabetes
+52,Stephanie Harris,87,Female,Vata,Anxiety,"94909 Miller Springs, West Karen, MN 33994",2653292683,Vata-Pitta,Vata,Chronic digestive issues
+53,David Mitchell,37,Other,Kapha,Asthma,"1154 Brandy Expressway, West Angelaport, NM 51009",3011337098,Vata-Pitta,Kapha,History of diabetes
+54,Laura Phillips,77,Male,Vata,Anxiety,"309 Pugh Tunnel, Glovertown, ID 28761",3409795402,Pitta,Vata,Post-surgery recovery
+55,Shawn Byrd,26,Male,Pitta,Digestive Issues,"PSC 3522, Box 2360, APO AE 52480",7685857025,Vata-Kapha,Pitta,History of depression
+56,Jennifer Taylor,69,Other,Kapha,Diabetes,"4096 Angela Club, Williamsberg, NY 91651",6517272231,Pitta-Kapha,Balanced,History of hypertension
+57,Jeanette Robertson,30,Other,Kapha,Healthy,"27625 Evans Burg, North Paul, MD 14995",4613368904,Kapha,Pitta,Recovering from recent illness
+58,Stephanie Jones,86,Female,Pitta,Asthma,"82141 Anthony Mission, East Tarashire, MD 28147",1103895675,Vata-Kapha,Pitta,History of anxiety disorder
+59,Ryan Brown,76,Male,None,Healthy,"672 Hall Ramp Suite 137, North Joshuaville, WV 08404",7960383519,Vata-Kapha,Balanced,Family history of heart disease
+60,Daniel Hernandez,44,Male,Vata,Depression,"6539 Maldonado Overpass Suite 084, Port Tracy, MN 43968",8876911459,Vata-Pitta,Vata,History of diabetes
+61,Thomas Porter,83,Female,Vata,Diabetes,"422 Aaron Knoll Apt. 662, Pamelafort, MN 68694",9398882219,Vata-Kapha,Balanced,Allergic to penicillin
+62,Thomas Allen,32,Female,Kapha,Anxiety,"7008 Pamela Trace, Taylorview, RI 89826",5950875292,Vata,Balanced,Family history of heart disease
+63,Joshua Weeks,76,Male,Vata,Anxiety,"9466 Lawson Camp, New Anneville, IA 83814",2214742583,Vata,Vata,Chronic digestive issues
+64,Mario Campbell,33,Female,Vata,Anxiety,"063 Stephanie Camp, New Christopherberg, NE 84805",693687713,Vata,Pitta,No significant history
+65,Debra Bennett,62,Male,None,Diabetes,"6750 Christopher Neck Suite 679, Melissaborough, SD 63866",3150992676,Vata-Pitta,Pitta,Allergic to penicillin
+66,Stephen Stanton,51,Other,Pitta,Asthma,"243 Douglas Trace, West Jenniferchester, CO 30205",727453640,Vata,Vata,History of diabetes
+67,Oscar Hodge,74,Female,Vata,Anxiety,"3111 Rodriguez Islands Apt. 623, South Benjaminbury, TN 59495",1643626173,Kapha,Balanced,Family history of heart disease
+68,Amy Rush,67,Male,Pitta,Healthy,"12540 Robert Crossroad Apt. 336, Brianport, SD 14845",1187199991,Pitta-Kapha,Vata,Allergic to penicillin
+69,Anne Williams,35,Other,Vata,Anxiety,"55992 Williams Pines Apt. 737, Port Caseybury, CO 23730",7046354824,Pitta,Pitta,Family history of heart disease
+70,Emily Gonzalez,19,Other,Kapha,Digestive Issues,"83485 Isaiah Lodge Suite 671, Tabithachester, NC 73021",6554729727,Pitta,Pitta,History of depression
+71,Daniel Black DDS,36,Female,Pitta,Hypertension,"5112 Joyce Brooks Apt. 454, North Kimberly, KY 20013",4757653616,Vata,Vata,Recovering from recent illness
+72,Debra Carr,83,Other,Pitta,Diabetes,"597 Coleman Landing, Samanthaville, AK 33052",7145514249,Vata-Kapha,Vata,Frequent migraines
+73,Lisa Elliott,73,Female,Vata,Depression,"104 Brett Hill, Nicoleberg, NH 52853",5908417714,Pitta-Kapha,Kapha,Post-surgery recovery
+74,Heather Thompson,49,Female,None,Diabetes,"3970 Grant Crest Suite 286, New Dale, OR 59856",2684910886,Kapha,Kapha,History of diabetes
+75,Dana Bryant,14,Female,None,Arthritis,"5542 Carlos Pike, Allisonport, ID 81333",2014207570,Pitta,Pitta,Recovering from recent illness
+76,Holly Castro,35,Other,Kapha,Healthy,"PSC 1543, Box 8901, APO AP 91860",4998677440,Kapha,Balanced,Family history of heart disease
+77,Collin Dunn,29,Male,Vata,Asthma,"Unit 5492 Box 0043, DPO AA 68204",975532028,Pitta-Kapha,Vata,History of asthma
+78,Gerald Serrano,78,Other,Vata,Digestive Issues,"PSC 2793, Box 9697, APO AA 07968",1503896504,Vata,Pitta,Chronic digestive issues
+79,Timothy Wilson,70,Other,Vata,Arthritis,"980 Webb Point, Frederickland, DE 31657",1227668010,Pitta,Balanced,Frequent migraines
+80,Jeffrey Ortiz,50,Other,None,Anxiety,"6822 Bonnie Camp Apt. 325, Port Jenniferchester, SC 76599",2418622782,Pitta-Kapha,Balanced,No significant history
+81,Tyler Barron,78,Female,Pitta,Anxiety,"084 Jonathan Corner Suite 092, Scottbury, DE 85695",3717156304,Vata-Kapha,Pitta,History of asthma
+82,Paige Smith,12,Other,Pitta,Diabetes,"04983 Amanda Village, Hansenstad, CT 71657",7665644772,Vata,Vata,History of hypertension
+83,Stephen Crawford,86,Other,Vata,Asthma,"3729 Carroll Plaza Suite 990, Katherinetown, AR 50425",9038432556,Pitta-Kapha,Vata,Previous surgery
+84,Charlene Rosales,43,Other,Vata,Obesity,"Unit 9944 Box 0865, DPO AP 88411",623109578,Vata-Kapha,Kapha,History of anxiety disorder
+85,Charles Larson,19,Other,Pitta,Arthritis,"65348 Collier Spring, North Kimberlyberg, WV 90910",6748543759,Vata-Pitta,Vata,Family history of heart disease
+86,Eileen Guerrero,39,Female,None,Obesity,"63938 Megan Mountain Apt. 538, Port Chad, DE 16660",4234922415,Vata,Vata,Frequent migraines
+87,Michael Harmon,44,Other,Vata,Depression,"5363 Megan Ranch Apt. 603, Garnerstad, PA 45349",1401236914,Pitta-Kapha,Vata,History of depression
+88,Anne Shaw,69,Male,Vata,Asthma,"7898 Paul Parkways Suite 366, Coxfurt, PA 04937",2517654314,Vata-Pitta,Pitta,Chronic digestive issues
+89,James Wilcox,48,Female,None,Anxiety,"61118 Davis Branch Suite 425, Ramosstad, UT 82352",138330022,Vata-Kapha,Balanced,History of depression
+90,Michael Farrell,35,Other,None,Obesity,"477 Kristina Springs, Lake Jessicaton, IL 85772",5880016300,Vata-Pitta,Balanced,History of depression
+91,Kristina Greene,46,Female,Kapha,Asthma,"80569 Anthony Summit Suite 221, East Monicaview, ME 71637",1900367760,Vata,Pitta,History of obesity treatment
+92,Whitney Fitzgerald,87,Female,Vata,Hypertension,"177 Donald Grove, South Heidimouth, MS 72789",2381176179,Kapha,Kapha,History of asthma
+93,Mary Smith,67,Other,Vata,Digestive Issues,"859 Williams Greens Apt. 416, Lake Paul, NJ 13422",3636315392,Kapha,Vata,Allergic to penicillin
+94,Jesse Long,45,Female,Pitta,Arthritis,"256 Fernandez Land, Port Katherine, IN 75906",531007936,Kapha,Vata,Family history of heart disease
+95,Mrs. Alicia Brown,45,Male,None,Depression,"279 Thornton Spring Suite 872, Davidland, FL 62513",7181302390,Vata-Kapha,Kapha,History of arthritis
+96,Travis Kline,15,Male,None,Depression,"114 Fletcher Freeway Suite 938, East Sarahville, CO 27849",3610107843,Vata-Kapha,Vata,History of obesity treatment
+97,Ryan Carter,32,Male,None,Anxiety,"5999 Richard Freeway Apt. 993, Port Debra, MI 37715",2513297890,Pitta,Kapha,Recovering from recent illness
+98,Jeanette Taylor MD,73,Female,Vata,Asthma,"220 Oneill Isle, East Angel, TN 08447",9057315003,Pitta,Pitta,History of diabetes
+99,Maria Dominguez,26,Male,Vata,Digestive Issues,"PSC 2769, Box 3680, APO AP 39369",3696713637,Vata-Pitta,Balanced,History of obesity treatment
+100,Melinda Dennis DVM,32,Other,Kapha,Diabetes,"1551 Huffman Stream Suite 631, East Kayla, GA 30965",3718236509,Vata,Pitta,History of diabetes
+101,Alejandra Edwards,72,Other,Pitta,Digestive Issues,"422 Freeman Oval Suite 751, Curtisfurt, NJ 84961",887668713,Vata,Balanced,Post-surgery recovery
+102,Donna Page,58,Other,Pitta,Hypertension,"48064 Nicholas Plain Suite 612, Stewartton, NC 43531",8285941733,Pitta-Kapha,Vata,History of obesity treatment
+103,Elaine Powell,29,Other,None,Digestive Issues,"698 Jane Unions, Robertfort, WA 71647",5747332722,Vata-Pitta,Pitta,Family history of heart disease
+104,Rachael Robertson,37,Female,Vata,Diabetes,"14677 Grant Well, Lake Courtney, MT 50066",5823912554,Vata-Kapha,Vata,Frequent migraines
+105,Hannah Alexander,19,Male,Kapha,Asthma,"8584 Butler Mountains, Christopherstad, IL 63553",3641236932,Vata-Kapha,Pitta,History of diabetes
+106,Tina Clark,37,Male,Pitta,Hypertension,"44451 Joseph Branch, New Adrianton, PA 82512",3832628138,Vata,Balanced,Recovering from recent illness
+107,Dalton Williams,84,Female,None,Asthma,"1454 Anderson Trace, Martinport, WI 23242",4559644961,Vata-Pitta,Balanced,History of anxiety disorder
+108,Jay Reed,16,Other,Kapha,Hypertension,"9729 Robin Plain Apt. 419, Bartonbury, MO 70340",1946551886,Vata-Kapha,Pitta,Chronic digestive issues
+109,Susan Evans,72,Male,None,Depression,"6476 Elizabeth Shoal, New Elizabeth, AL 82859",4154313259,Vata-Kapha,Pitta,History of diabetes
+110,Andrew Rogers,23,Female,Kapha,Arthritis,"Unit 8550 Box 3333, DPO AP 55458",8146836071,Vata-Pitta,Vata,Allergic to penicillin
+111,Mia Curtis,73,Other,Vata,Obesity,"6749 Sara Crossing Suite 521, Brittanyport, ME 79511",8500672791,Vata,Pitta,Family history of heart disease
+112,Bruce Shaw,18,Other,Vata,Digestive Issues,"512 Kevin Expressway Apt. 069, Lake Evelynstad, MN 89152",2729879874,Pitta-Kapha,Pitta,History of hypertension
+113,Jamie Davis,86,Other,Pitta,Healthy,"645 Taylor Tunnel Apt. 538, North Tanya, SC 60118",4917945521,Pitta,Vata,History of anxiety disorder
+114,Kristen Hunt MD,26,Female,None,Anxiety,"4360 Parker Mountain, South Sarah, NV 01506",4622112569,Pitta,Kapha,History of asthma
+115,Melissa Banks,35,Other,Vata,Obesity,"44223 Lisa Crescent, Hendersonstad, OH 13949",765000791,Kapha,Balanced,History of diabetes
+116,Sean Burgess,47,Male,Pitta,Obesity,"2549 Jessica Center, Mcgrathfort, AL 56196",1323828385,Pitta,Pitta,Family history of heart disease
+117,Andrew Shields,81,Male,Vata,Diabetes,"253 Christopher Unions, Gonzaleshaven, MS 33370",5833871568,Vata-Pitta,Kapha,Post-surgery recovery
+118,Kayla Fields,73,Female,Kapha,Diabetes,"63086 Anita Walks, Ryanview, VT 96127",597259473,Vata,Vata,Frequent migraines
+119,Amanda Johnson,31,Other,None,Obesity,"PSC 2361, Box 2034, APO AP 68912",8969116310,Kapha,Balanced,Post-surgery recovery
+120,Richard Martinez,12,Female,Kapha,Asthma,"0958 Kimberly Hill, Torresport, CO 04802",185097669,Kapha,Vata,Recovering from recent illness
+121,Christina Brown,63,Male,None,Depression,"7177 Ryan Islands Suite 882, Albertburgh, FL 89332",5323113605,Pitta-Kapha,Pitta,History of depression
+122,Matthew Huffman,55,Male,Pitta,Diabetes,"3478 Belinda Crescent, South Dennisfort, WA 65753",8733075752,Vata-Kapha,Vata,History of depression
+123,Pamela Ford,80,Other,Pitta,Anxiety,"28470 Natasha Mill, Lake Greg, TN 83283",915594516,Vata-Kapha,Vata,History of depression
+124,Jennifer Guerra,13,Female,Kapha,Depression,"801 Jeffery Causeway, Lindafort, HI 12141",5882072337,Pitta-Kapha,Pitta,History of arthritis
+125,Jacqueline Hayes,42,Female,Pitta,Diabetes,"8330 Anderson Pines Suite 136, Robleshaven, NM 62391",4249227018,Pitta-Kapha,Kapha,History of diabetes
+126,Julie Boyer,86,Male,Pitta,Asthma,"75830 Davis Fall, South Tylerside, NE 33142",7860322594,Kapha,Vata,Recovering from recent illness
+127,Thomas Williams,75,Female,Pitta,Healthy,"774 Anthony Road Suite 897, Scottside, SD 96805",8814917509,Vata-Pitta,Vata,No significant history
+128,Connie Clark,40,Other,Kapha,Healthy,"USNS Powell, FPO AE 50698",8836869911,Pitta,Vata,History of obesity treatment
+129,Maria Ramirez,82,Other,Vata,Depression,"505 Marie Views, Burgessport, VT 96893",2764489043,Pitta,Balanced,Previous surgery
+130,Kelsey Hull,87,Male,Pitta,Arthritis,"45569 Fletcher Trace Apt. 043, Lake Dennisfort, CO 41950",174730151,Pitta-Kapha,Pitta,Allergic to penicillin
+131,Joel Cooper,58,Other,Pitta,Obesity,"5334 Trevino Extension Suite 815, Walterville, OH 39794",4297139532,Kapha,Balanced,History of diabetes
+132,Gina Brown,36,Female,Pitta,Diabetes,"4513 Patricia Field, East Barry, PA 34075",2085782487,Vata-Pitta,Kapha,Family history of heart disease
+133,David Banks,21,Female,Kapha,Anxiety,"0722 Jillian Isle, South Christopher, MT 44959",3810138201,Pitta,Pitta,History of arthritis
+134,Alicia Cruz DDS,22,Male,Kapha,Diabetes,"USS Owen, FPO AA 03370",4388647188,Vata-Kapha,Balanced,Post-surgery recovery
+135,Nicholas Page,81,Other,None,Anxiety,"26650 Ward Stream Suite 397, Phamton, WI 00552",7777556484,Pitta-Kapha,Balanced,No significant history
+136,Valerie Jones,78,Male,Kapha,Healthy,"308 Wilson Junctions Apt. 244, Port Amy, WV 29813",5725217708,Vata-Pitta,Kapha,Chronic digestive issues
+137,Sarah Alvarez,52,Other,Kapha,Healthy,"594 Terri Greens Suite 815, Lake Glenbury, OR 42189",2523656278,Pitta,Kapha,Recovering from recent illness
+138,Christopher Torres,34,Female,Pitta,Asthma,"98647 Yvonne Isle Apt. 861, Jamesberg, PA 95789",5703134880,Pitta,Vata,No significant history
+139,George Martin,63,Male,Vata,Anxiety,"9681 Raven Cape, Robertfort, UT 55201",3028097647,Vata,Kapha,Recovering from recent illness
+140,Michelle Burton,71,Female,Pitta,Digestive Issues,"1238 Martin Terrace, Raymondview, OR 47023",9866462013,Kapha,Pitta,Previous surgery
+141,Dean Gutierrez,25,Other,Kapha,Arthritis,"7602 Tony Crossroad Apt. 132, Robinland, ME 91340",7195900108,Pitta,Pitta,History of hypertension
+142,Connie Reyes,66,Female,None,Diabetes,"09308 Haley Via, Coxstad, AL 92279",5719188504,Pitta,Vata,History of hypertension
+143,Richard Coffey,14,Male,None,Asthma,"93579 Jackson Pike Apt. 041, South Benjamin, PA 68787",1065805103,Pitta-Kapha,Pitta,History of obesity treatment
+144,Megan Pope,34,Female,Vata,Healthy,"131 Mary Fork, Michaelburgh, NV 20511",1103788761,Pitta,Balanced,Frequent migraines
+145,David Carpenter,12,Female,None,Healthy,"PSC 2233, Box 9871, APO AE 35918",1479746098,Vata-Kapha,Pitta,History of anxiety disorder
+146,Philip Mejia,51,Other,Pitta,Arthritis,"11952 Neil Tunnel, North Laura, KY 13053",5386531094,Vata-Kapha,Pitta,History of depression
+147,Larry Willis,62,Female,Kapha,Asthma,"22845 Williams Highway Suite 769, Dillonfort, SD 31373",4516459239,Pitta,Kapha,Frequent migraines
+148,Robert Chan,53,Male,Kapha,Anxiety,"661 Washington Shores, Port Melissa, NM 63581",3007367651,Pitta,Pitta,Chronic digestive issues
+149,Lindsey Stone,53,Female,Kapha,Obesity,"62477 Taylor Meadows Suite 940, Lake Michealfurt, MI 50892",5231398759,Vata,Vata,History of asthma
+150,Rebecca Suarez,37,Other,Pitta,Hypertension,"50161 Ashley Terrace Apt. 271, Simpsonmouth, FL 60699",9463709005,Pitta-Kapha,Pitta,Family history of heart disease
+151,John Smith,46,Other,Vata,Asthma,"642 William Pines, Lake Susanstad, GA 44710",5156301286,Vata-Kapha,Vata,No significant history
+152,Carl Baxter,25,Female,None,Asthma,"1761 Elizabeth Ramp, Andersonview, AK 62416",3832821954,Vata-Kapha,Pitta,History of hypertension
+153,Christy Howe,82,Other,Pitta,Digestive Issues,"226 Conley Cliffs, South Michaelberg, ND 13164",9684987184,Vata,Pitta,Post-surgery recovery
+154,Emily Hess,56,Male,Kapha,Depression,"Unit 5854 Box 5959, DPO AE 55269",1929147252,Vata,Pitta,Family history of heart disease
+155,Peggy Salazar,53,Other,Pitta,Asthma,"2470 Christy Parkways, Matthewfort, TX 85452",7155054575,Vata-Kapha,Vata,History of diabetes
+156,Jose Kaiser,23,Other,None,Depression,"0764 Soto Point, West William, NE 42396",1517132729,Vata-Pitta,Kapha,Post-surgery recovery
+157,Laura Beck,70,Other,Vata,Digestive Issues,"355 Fernandez Plains Suite 296, Mendezside, AZ 38652",3383406089,Pitta,Vata,History of diabetes
+158,Natalie Kirk,75,Male,Vata,Arthritis,"620 Carroll Parkway Suite 259, Lake Brandon, IL 38961",190554989,Vata,Vata,Allergic to penicillin
+159,Annette Herman,24,Other,Vata,Diabetes,"057 Williams Stream, East Curtisfort, SD 41065",9045293707,Vata-Pitta,Pitta,History of obesity treatment
+160,John Weaver,13,Other,Vata,Hypertension,"1605 Smith Crossing, Davisville, DC 07218",3038509053,Kapha,Vata,History of anxiety disorder

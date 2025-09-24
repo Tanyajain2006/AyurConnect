@@ -1,0 +1,163 @@
+Food_ID,Food_Name,Category,Recommended_Time
+A001,Egg (Chicken),Animal Product,Afternoon
+A002,Chicken,Animal Product,Afternoon
+A003,Fish (Salmon),Animal Product,Afternoon
+A004,Lamb,Animal Product,Afternoon
+A005,Beef,Animal Product,Afternoon
+D001,Milk (Cow),Dairy,Night
+D002,Yogurt (Curd),Dairy,Night
+D003,Ghee,Dairy,Night
+D004,Paneer,Dairy,Night
+D005,Butter,Dairy,Night
+D006,Buttermilk,Dairy,Night
+D007,Cheese (hard),Dairy,Night
+D008,Goat Milk,Dairy,Night
+D011,Lassi (sweet),Dairy,Night
+D012,Kefir,Dairy,Night
+D013,Sour Cream,Dairy,Night
+D014,Cream,Dairy,Night
+D015,Khoya (Mawa),Dairy,Night
+D009,Almond Milk,Dairy Alternative,Night
+D010,Coconut Milk,Dairy Alternative,Night
+F001,Banana,Fruit,Morning
+F002,Apple,Fruit,Morning
+F003,Mango (ripe),Fruit,Morning
+F004,Orange,Fruit,Morning
+F005,Pomegranate,Fruit,Morning
+F006,Grapes,Fruit,Morning
+F007,Watermelon,Fruit,Morning
+F008,Papaya (ripe),Fruit,Morning
+F009,Pineapple,Fruit,Morning
+F010,Guava,Fruit,Morning
+F011,Dates,Fruit,Morning
+F012,Fig,Fruit,Morning
+F013,Amla (Indian Gooseberry),Fruit,Morning
+F014,Lemon,Fruit,Morning
+F015,Coconut (fresh),Fruit,Morning
+F016,Avocado,Fruit,Morning
+F017,Lime,Fruit,Morning
+F018,Jackfruit,Fruit,Morning
+F019,Lychee,Fruit,Morning
+F020,Muskmelon,Fruit,Morning
+F021,Peach,Fruit,Morning
+F022,Pear,Fruit,Morning
+F023,Plum,Fruit,Morning
+F024,Strawberry,Fruit,Morning
+F025,Jamun (Java Plum),Fruit,Morning
+G001,Rice (white),Grain,Afternoon
+G002,Wheat,Grain,Afternoon
+G003,Barley,Grain,Afternoon
+G004,Ragi (Finger Millet),Grain,Afternoon
+G005,Oats,Grain,Afternoon
+G006,Quinoa,Grain,Afternoon
+G007,Brown Rice,Grain,Afternoon
+G008,Corn,Grain,Afternoon
+G009,Millet (Bajra),Grain,Afternoon
+G010,Buckwheat (Kuttu),Grain,Afternoon
+G011,Amaranth (Rajgira),Grain,Afternoon
+G012,Sorghum (Jowar),Grain,Afternoon
+G013,Semolina (Suji),Grain,Afternoon
+G014,Spelt,Grain,Afternoon
+G015,Rye,Grain,Afternoon
+S016,Mint,Herb,Evening
+S017,Basil (Tulsi),Herb,Evening
+S018,Rosemary,Herb,Evening
+S019,Thyme,Herb,Evening
+S020,Oregano,Herb,Evening
+S021,Dill,Herb,Evening
+L001,Moong Dal,Legume,Afternoon
+L002,Chana (Bengal Gram),Legume,Afternoon
+L003,Urad Dal,Legume,Afternoon
+L004,Masoor Dal,Legume,Afternoon
+L005,Rajma (Kidney Beans),Legume,Afternoon
+L006,Lentils (Brown),Legume,Afternoon
+L007,Chickpeas (Kabuli Chana),Legume,Afternoon
+L008,Black-eyed Peas (Lobia),Legume,Afternoon
+L009,Soybean,Legume,Afternoon
+L010,Pigeon Pea (Toor/Arhar Dal),Legume,Afternoon
+L011,Horse Gram (Kulthi),Legume,Afternoon
+L012,Fava Beans,Legume,Afternoon
+L013,Lima Beans,Legume,Afternoon
+L014,Moth Beans (Matki),Legume,Afternoon
+L015,Adzuki Beans,Legume,Afternoon
+N001,Almonds,Nut,Morning
+N002,Walnuts,Nut,Morning
+N003,Cashews,Nut,Morning
+N004,Pistachios,Nut,Morning
+N005,Peanuts,Nut,Morning
+N012,Brazil Nuts,Nut,Morning
+N013,Hazelnuts,Nut,Morning
+N014,Pecans,Nut,Morning
+N015,Macadamia Nuts,Nut,Morning
+O001,Coconut Oil,Oil,Afternoon
+O002,Sesame Oil,Oil,Afternoon
+O003,Mustard Oil,Oil,Afternoon
+O004,Olive Oil,Oil,Afternoon
+O005,Sunflower Oil,Oil,Morning
+O006,Almond Oil,Oil,Afternoon
+O007,Groundnut Oil,Oil,Afternoon
+O008,Avocado Oil,Oil,Afternoon
+O009,Flaxseed Oil,Oil,Afternoon
+O010,Castor Oil,Oil,Afternoon
+N006,Sesame Seeds,Seed,Afternoon
+N007,Sunflower Seeds,Seed,Afternoon
+N008,Pumpkin Seeds,Seed,Afternoon
+N009,Flax Seeds,Seed,Afternoon
+N010,Chia Seeds,Seed,Afternoon
+N011,Poppy Seeds,Seed,Afternoon
+S001,Turmeric,Spice,Morning
+S002,Ginger,Spice,Morning
+S003,Garlic,Spice,Morning
+S004,Cumin,Spice,Morning
+S005,Coriander,Spice,Morning
+S006,Black Pepper,Spice,Morning
+S007,Cinnamon,Spice,Morning
+S008,Cardamom,Spice,Morning
+S009,Cloves,Spice,Morning
+S010,Fenugreek (Methi),Spice,Morning
+S011,Asafoetida (Hing),Spice,Morning
+S012,Fennel,Spice,Morning
+S013,Mustard Seeds,Spice,Afternoon
+S014,Nutmeg,Spice,Morning
+S015,Saffron,Spice,Afternoon
+S022,Bay Leaf,Spice,Morning
+S023,Carom Seeds (Ajwain),Spice,Morning
+S024,Kalonji (Nigella Seeds),Spice,Morning
+S025,Mace,Spice,Morning
+W001,Jaggery (Gur),Sweetener,Afternoon
+W002,Honey (raw),Sweetener,Morning
+W003,White Sugar,Sweetener,Afternoon
+W004,Maple Syrup,Sweetener,Afternoon
+W005,Stevia,Sweetener,Morning
+V001,Spinach,Vegetable,Evening
+V002,Potato,Vegetable,Evening
+V003,Tomato,Vegetable,Evening
+V004,Carrot,Vegetable,Evening
+V005,Onion,Vegetable,Evening
+V006,Cucumber,Vegetable,Evening
+V007,Cauliflower,Vegetable,Evening
+V008,Broccoli,Vegetable,Evening
+V009,Cabbage,Vegetable,Evening
+V010,Bell Pepper (Capsicum),Vegetable,Evening
+V011,Eggplant (Brinjal),Vegetable,Evening
+V012,Okra (Lady's Finger),Vegetable,Evening
+V013,Zucchini,Vegetable,Evening
+V014,Sweet Potato,Vegetable,Evening
+V015,Pumpkin,Vegetable,Evening
+V016,Radish,Vegetable,Evening
+V017,Beetroot,Vegetable,Evening
+V018,Lauki (Bottle Gourd),Vegetable,Evening
+V019,Tinda (Indian Squash),Vegetable,Evening
+V020,Karela (Bitter Gourd),Vegetable,Evening
+V021,Green Beans,Vegetable,Evening
+V022,Mushroom,Vegetable,Evening
+V023,Peas,Vegetable,Evening
+V024,Celery,Vegetable,Evening
+V025,Lettuce,Vegetable,Evening
+V026,Asparagus,Vegetable,Evening
+V027,Turnip,Vegetable,Evening
+V028,Drumstick (Moringa),Vegetable,Evening
+V029,Ridge Gourd (Turai),Vegetable,Evening
+V030,Artichoke,Vegetable,Evening
+V031,Bitter Gourd,Vegetable,Evening
+V032,Bottle Gourd,Vegetable,Evening

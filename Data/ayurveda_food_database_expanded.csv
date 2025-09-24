@@ -1,0 +1,163 @@
+﻿Food_ID,Food_Name,Category,Energy_kcal,Carbs_g,Protein_g,Fat_g,Rasa,Guna,Virya,Vipaka,Dosha_Effect,Prabhava
+A001,Egg (Chicken),Animal Product,155,1.1,13,11,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Strength promoting
+A002,Chicken,Animal Product,239,0,27,14,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Kapha,Nourishing
+A003,Fish (Salmon),Animal Product,208,0,20,13,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Rich in Omega-3
+A004,Lamb,Animal Product,282,0,25,21,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,"Warming, strength building"
+A005,Beef,Animal Product,250,0,26,15,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Kapha,Grounding
+D001,Milk (Cow),Dairy,61,4.8,3.4,3.3,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Ojas promoting
+D002,Yogurt (Curd),Dairy,59,3.6,10,0.4,"Amla, Madhura","Guru, Snigdha",Ushna,Amla,Increases Kapha & Pitta; balances Vata,"Probiotic, digestive"
+D003,Ghee,Dairy,900,0,0,100,Madhura,"Snigdha, Laghu",Shita,Madhura,Balances Vata & Pitta; increases Kapha in excess,Rasayana (rejuvenative)
+D004,Paneer,Dairy,265,1.2,18,21,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata; increases Kapha,Strength promoting
+D005,Butter,Dairy,717,0.1,0.9,81,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata; increases Kapha,"Nourishing, cooling"
+D006,Buttermilk,Dairy,40,4.8,3.3,0.9,"Kashaya, Amla, Madhura","Laghu, Ruksha",Ushna,Madhura,Balances Vata & Kapha; may increase Pitta if sour,"Aids digestion, treats malabsorption"
+D007,Cheese (hard),Dairy,402,1.3,25,33,"Madhura, Amla",Guru,Ushna,Amla,Increases Kapha & Pitta; balances Vata,Grounding
+D008,Goat Milk,Dairy,69,4.5,3.6,4.1,"Madhura, Kashaya",Laghu,Shita,Madhura,Tridoshic,Lighter than cow's milk
+D011,Lassi (sweet),Dairy,78,12,4,1.5,"Madhura, Amla","Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,"Digestive, calming"
+D012,Kefir,Dairy,64,6,4,3.5,Amla,Guru,Ushna,Amla,Balances Vata; increases Pitta & Kapha,Probiotic-rich
+D013,Sour Cream,Dairy,193,4.6,2.4,19,Amla,"Guru, Snigdha",Ushna,Amla,Balances Vata; increases Pitta & Kapha,Cooling sensation
+D014,Cream,Dairy,345,3,2.2,36,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Nourishing
+D015,Khoya (Mawa),Dairy,378,25,19,22,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Strength promoting
+D009,Almond Milk,Dairy Alternative,39,3.4,1,2.5,Madhura,Snigdha,Shita,Madhura,Balances Vata & Pitta; may increase Kapha,Nourishing
+D010,Coconut Milk,Dairy Alternative,230,6,2.3,24,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Cooling
+F001,Banana,Fruit,89,22.8,1.1,0.3,"Madhura, Kashaya","Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,"Nourishing, grounding"
+F002,Apple,Fruit,52,14,0.3,0.2,"Madhura, Kashaya","Laghu, Ruksha",Shita,Madhura,Balances Pitta & Kapha; may aggravate Vata,"Cooling, heart tonic"
+F003,Mango (ripe),Fruit,60,15,0.8,0.4,"Madhura, Amla","Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Rasayana (rejuvenative)
+F004,Orange,Fruit,47,12,0.9,0.1,"Amla, Madhura",Laghu,Shita,Madhura,Balances Vata & Pitta; may aggravate Kapha,Vitamin C rich
+F005,Pomegranate,Fruit,83,19,1.7,1.2,"Madhura, Kashaya, Amla","Laghu, Snigdha",Shita,Madhura,Balances all doshas (Tridoshic),Hridaya (good for heart)
+F006,Grapes,Fruit,69,18,0.7,0.2,"Madhura, Amla","Snigdha, Guru",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Blood purifier
+F007,Watermelon,Fruit,30,8,0.6,0.2,Madhura,"Laghu, Snigdha",Shita,Madhura,Balances Pitta; increases Kapha & Vata,"Diuretic, hydrating"
+F008,Papaya (ripe),Fruit,43,11,0.5,0.3,"Madhura, Katu",Laghu,Ushna,Madhura,Balances Vata & Kapha; increases Pitta,Aids digestion
+F009,Pineapple,Fruit,50,13,0.5,0.1,"Madhura, Amla",Guru,Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Anti-inflammatory
+F010,Guava,Fruit,68,14,2.6,1,"Kashaya, Madhura, Amla",Guru,Shita,Katu,Balances Pitta & Kapha; may increase Vata,Rich in Vitamin C
+F011,Dates,Fruit,282,75,2.5,0.2,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,"Ojas building, aphrodisiac"
+F012,Fig,Fruit,74,19,0.8,0.3,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Laxative
+F013,Amla (Indian Gooseberry),Fruit,44,10,0.9,0.6,"Amla (primary), all other five tastes except Lavana","Guru, Ruksha",Shita,Madhura,"Tridoshic, especially good for Pitta",Rasayana (rejuvenative)
+F014,Lemon,Fruit,29,9,1.1,0.3,Amla,"Laghu, Tikshna",Ushna,Amla,Balances Vata & Kapha; increases Pitta,Stimulates digestion
+F015,Coconut (fresh),Fruit,354,15,3.3,33,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,"Cooling, nourishing"
+F016,Avocado,Fruit,160,9,2,15,Madhura,"Snigdha, Guru",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Nourishes tissues
+F017,Lime,Fruit,30,11,0.7,0.2,Amla,Laghu,Shita,Madhura,Balances Vata & Pitta,Digestive aid
+F018,Jackfruit,Fruit,95,23,1.7,0.6,"Madhura, Kashaya","Guru, Snigdha",Shita,Madhura,Balances Vata; increases Kapha,Strength promoting
+F019,Lychee,Fruit,66,17,0.8,0.4,Madhura,Snigdha,Shita,Madhura,Balances Vata & Pitta; may increase Kapha,Brain tonic
+F020,Muskmelon,Fruit,34,8,0.8,0.2,Madhura,Guru,Shita,Madhura,Balances Pitta; may increase Kapha,"Diuretic, coolant"
+F021,Peach,Fruit,39,10,0.9,0.3,"Madhura, Amla","Guru, Snigdha",Ushna,Madhura,Balances Vata; may increase Pitta & Kapha,Laxative
+F022,Pear,Fruit,57,15,0.4,0.1,"Madhura, Kashaya","Guru, Ruksha",Shita,Madhura,Balances Pitta; may increase Vata & Kapha,Mild diuretic
+F023,Plum,Fruit,46,11,0.7,0.3,"Amla, Madhura",Guru,Ushna,Amla,Balances Vata; increases Pitta & Kapha,Blood purifier
+F024,Strawberry,Fruit,32,8,0.7,0.3,"Madhura, Amla, Kashaya",Laghu,Shita,Madhura,Balances Pitta; may increase Vata,Cooling
+F025,Jamun (Java Plum),Fruit,60,15,0.7,0.2,"Kashaya, Madhura, Amla","Laghu, Ruksha",Shita,Katu,Balances Kapha & Pitta; increases Vata,Good for diabetes
+G001,Rice (white),Grain,130,28,2.4,0.2,Madhura,"Snigdha, Manda",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Easy to digest
+G002,Wheat,Grain,327,71,12,1.5,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata; increases Kapha,Strength promoting
+G003,Barley,Grain,354,73,12,2.3,"Madhura, Kashaya","Laghu, Ruksha",Shita,Madhura,Balances Kapha & Pitta; aggravates Vata,Diuretic
+G004,Ragi (Finger Millet),Grain,336,72,7.3,1.3,Madhura,Guru,Shita,Madhura,Balances Pitta; may increase Kapha,Bone strength
+G005,Oats,Grain,389,66,17,7,Madhura,Guru,Ushna,Madhura,Balances Vata; may increase Kapha,Rich in fiber
+G006,Quinoa,Grain,120,21,4.1,1.9,"Madhura, Kashaya","Laghu, Ruksha",Ushna,Katu,"Tridoshic, but may increase Vata if dry",Complete protein
+G007,Brown Rice,Grain,111,23,2.6,0.9,Madhura,"Guru, Ruksha",Ushna,Madhura,Balances Vata & Kapha; may increase Pitta,Fiber-rich
+G008,Corn,Grain,86,19,3.2,1.2,Madhura,"Ruksha, Laghu",Shita,Katu,Increases Vata & Kapha; balances Pitta,Diuretic
+G009,Millet (Bajra),Grain,378,73,11,4.2,Madhura,"Ruksha, Laghu",Ushna,Katu,Balances Kapha; increases Vata & Pitta,Warming
+G010,Buckwheat (Kuttu),Grain,343,72,13,3.4,"Madhura, Kashaya","Laghu, Ruksha",Ushna,Madhura,Balances Kapha; increases Pitta & Vata,"Warming, good for circulation"
+G011,Amaranth (Rajgira),Grain,371,65,14,7,"Madhura, Kashaya","Laghu, Ruksha",Shita,Katu,Balances Kapha & Pitta; may increase Vata,High in protein and calcium
+G012,Sorghum (Jowar),Grain,339,75,11,3.3,"Madhura, Kashaya","Laghu, Ruksha",Shita,Madhura,Balances Pitta & Kapha; may increase Vata,Cooling
+G013,Semolina (Suji),Grain,360,73,13,1,Madhura,Guru,Shita,Madhura,Balances Vata; increases Kapha,Easy to digest
+G014,Spelt,Grain,338,70,15,2.4,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Nourishing
+G015,Rye,Grain,338,76,10,1.6,"Madhura, Kashaya","Laghu, Ruksha",Ushna,Madhura,Balances Kapha; increases Vata & Pitta,Stimulating
+S016,Mint,Herb,44,8.4,3.3,0.7,Katu,Laghu,Ushna,Katu,Balances Kapha & Vata; may increase Pitta,"Cooling, digestive"
+S017,Basil (Tulsi),Herb,23,2.7,3.2,0.6,"Katu, Tikta","Laghu, Ruksha",Ushna,Katu,Balances Kapha & Vata; increases Pitta,"Adaptogen, immunity booster"
+S018,Rosemary,Herb,131,21,3.3,5.9,"Katu, Tikta",Tikshna,Ushna,Katu,Balances Kapha & Vata; increases Pitta,Improves memory
+S019,Thyme,Herb,101,24,5.6,1.7,"Katu, Tikta","Laghu, Ruksha",Ushna,Katu,Balances Kapha & Vata,Antiseptic
+S020,Oregano,Herb,265,69,9,4.3,"Katu, Tikta","Laghu, Ruksha, Tikshna",Ushna,Katu,Balances Kapha & Vata; increases Pitta,Antifungal
+S021,Dill,Herb,43,7,3.5,1.1,"Katu, Tikta",Laghu,Ushna,Katu,Balances Vata & Kapha,Carminative
+L001,Moong Dal,Legume,105,19,7,0.6,"Madhura, Kashaya",Laghu,Shita,Madhura,Balances all doshas (Tridoshic),"Detoxifying, light"
+L002,Chana (Bengal Gram),Legume,164,27,9,2.6,"Madhura, Kashaya","Guru, Ruksha",Ushna,Madhura,Balances Kapha; may aggravate Vata,Improves strength
+L003,Urad Dal,Legume,341,58,25,1.6,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; may increase Kapha,Strength and stamina
+L004,Masoor Dal,Legume,116,20,9,0.4,"Madhura, Kashaya",Laghu,Shita,Madhura,Balances Kapha & Pitta; may aggravate Vata,"Light, digestive"
+L005,Rajma (Kidney Beans),Legume,127,22,9,0.5,"Madhura, Kashaya",Guru,Ushna,Madhura,Balances Vata; increases Kapha,"Hearty, nourishing"
+L006,Lentils (Brown),Legume,116,20,9,0.4,"Madhura, Kashaya","Laghu, Ruksha",Shita,Katu,Balances Pitta & Kapha; increases Vata,Grounding
+L007,Chickpeas (Kabuli Chana),Legume,164,27,8.9,2.6,"Madhura, Kashaya","Laghu, Ruksha",Shita,Katu,Balances Pitta & Kapha; increases Vata,Strength promoting
+L008,Black-eyed Peas (Lobia),Legume,116,21,8,0.5,"Madhura, Kashaya","Laghu, Ruksha",Shita,Katu,Balances Kapha & Pitta; increases Vata,Diuretic
+L009,Soybean,Legume,147,11,13,7,"Madhura, Kashaya","Guru, Ruksha",Ushna,Madhura,Balances Kapha; increases Vata & Pitta,Hormone balancing
+L010,Pigeon Pea (Toor/Arhar Dal),Legume,116,22,8,0.4,"Madhura, Kashaya","Laghu, Ruksha",Ushna,Katu,Balances Kapha; increases Vata & Pitta,Astringent
+L011,Horse Gram (Kulthi),Legume,321,57,22,0.5,Kashaya,"Laghu, Ruksha, Tikshna",Ushna,Amla,Balances Kapha & Vata; increases Pitta,Breaks down stones
+L012,Fava Beans,Legume,88,18,8,0.4,"Madhura, Kashaya","Guru, Ruksha",Shita,Madhura,Balances Pitta; increases Vata & Kapha,Nourishing
+L013,Lima Beans,Legume,115,21,8,0.4,Madhura,Guru,Shita,Madhura,Balances Vata & Pitta; increases Kapha,Grounding
+L014,Moth Beans (Matki),Legume,343,62,23,1.6,"Madhura, Kashaya","Laghu, Ruksha",Shita,Madhura,Balances Kapha & Pitta; increases Vata,Protein-rich
+L015,Adzuki Beans,Legume,128,25,7.5,0.1,"Madhura, Kashaya","Laghu, Ruksha",Shita,Katu,Balances Kapha & Pitta,Kidney tonic
+N001,Almonds,Nut,579,22,21,49,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Brain tonic
+N002,Walnuts,Nut,654,14,15,65,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Kapha & Pitta,Supports brain health
+N003,Cashews,Nut,553,30,18,44,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Kapha & Pitta,Nourishing
+N004,Pistachios,Nut,562,28,20,45,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Nervine tonic
+N005,Peanuts,Nut,567,16,26,49,"Madhura, Kashaya","Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Kapha & Pitta,Grounding
+N012,Brazil Nuts,Nut,656,12,14,66,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Rich in selenium
+N013,Hazelnuts,Nut,628,17,15,61,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Strength promoting
+N014,Pecans,Nut,691,14,9,72,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Nourishing
+N015,Macadamia Nuts,Nut,718,14,8,76,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Healthy fats
+O001,Coconut Oil,Oil,862,0,0,100,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Pitta & Vata; increases Kapha,"Cooling, nourishing"
+O002,Sesame Oil,Oil,884,0,0,100,"Madhura, Tikta","Guru, Snigdha, Tikshna",Ushna,Madhura,Best for Vata; increases Pitta & Kapha,"Penetrating, nourishing"
+O003,Mustard Oil,Oil,884,0,0,100,Katu,"Tikshna, Snigdha",Ushna,Katu,Balances Kapha & Vata; increases Pitta,"Decongestant, stimulant"
+O004,Olive Oil,Oil,884,0,0,100,Madhura,"Guru, Snigdha",Shita,Madhura,Best for Pitta; balances Vata; increases Kapha,Heart healthy
+O005,Sunflower Oil,Oil,884,0,0,100,Madhura,"Laghu, Snigdha",Shita,Madhura,Balances Pitta; may increase Kapha,Light
+O006,Almond Oil,Oil,884,0,0,100,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Nourishing
+O007,Groundnut Oil,Oil,884,0,0,100,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Warming
+O008,Avocado Oil,Oil,884,0,0,100,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Nourishing
+O009,Flaxseed Oil,Oil,884,0,0,100,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Omega-3 rich
+O010,Castor Oil,Oil,884,0,0,100,"Madhura, Katu, Kashaya","Guru, Snigdha, Tikshna",Ushna,Madhura,Balances Vata & Kapha,Purgative
+N006,Sesame Seeds,Seed,573,23,18,50,"Madhura, Tikta, Kashaya","Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Kapha & Pitta,Bone health
+N007,Sunflower Seeds,Seed,584,20,21,51,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Skin health
+N008,Pumpkin Seeds,Seed,559,11,30,49,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata & Kapha,Anti-parasitic
+N009,Flax Seeds,Seed,534,29,18,42,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; increases Kapha & Pitta,"Laxative, Omega-3 rich"
+N010,Chia Seeds,Seed,486,42,17,31,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,"Hydrating, high fiber"
+N011,Poppy Seeds,Seed,525,28,18,42,"Madhura, Tikta","Snigdha, Guru",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Sedative
+S001,Turmeric,Spice,354,65,8,10,"Tikta, Katu","Laghu, Ruksha",Ushna,Katu,Balances Kapha & Vata; aggravates Pitta in excess,Anti-inflammatory
+S002,Ginger,Spice,80,18,1.8,0.8,Katu,"Laghu, Snigdha",Ushna,Madhura,Balances Vata & Kapha; increases Pitta,"Digestive, stimulant"
+S003,Garlic,Spice,149,33,6.4,0.5,"Katu, Tikta","Laghu, Tikshna",Ushna,Katu,Balances Kapha & Vata; aggravates Pitta,Antimicrobial
+S004,Cumin,Spice,375,44,18,22,"Katu, Tikta",Laghu,Ushna,Katu,Balances Kapha; may increase Pitta,Improves digestion
+S005,Coriander,Spice,298,55,12,17,"Madhura, Kashaya","Laghu, Snigdha",Shita,Madhura,Balances Pitta; may aggravate Vata,"Coolant, digestive"
+S006,Black Pepper,Spice,251,64,10,3.3,Katu,"Laghu, Tikshna",Ushna,Katu,Balances Vata & Kapha; increases Pitta,Deepana (enkindles digestion)
+S007,Cinnamon,Spice,247,81,4,1.2,"Katu, Madhura, Tikta","Laghu, Ruksha, Tikshna",Ushna,Katu,Balances Vata & Kapha; increases Pitta,Improves circulation
+S008,Cardamom,Spice,311,68,11,7,"Katu, Madhura",Laghu,Shita,Madhura,Tridoshic,"Aids digestion, freshens breath"
+S009,Cloves,Spice,274,66,6,13,"Katu, Tikta","Laghu, Tikshna",Ushna,Katu,Balances Vata & Kapha; increases Pitta,Pain reliever
+S010,Fenugreek (Methi),Spice,323,58,23,6,"Tikta, Katu","Laghu, Snigdha",Ushna,Katu,Balances Vata & Kapha; increases Pitta,Galactagogue
+S011,Asafoetida (Hing),Spice,296,68,4,1.1,Katu,"Laghu, Sara, Tikshna",Ushna,Katu,Best for Vata; balances Kapha; increases Pitta,Carminative
+S012,Fennel,Spice,345,52,16,15,"Madhura, Katu, Tikta","Laghu, Snigdha",Shita,Madhura,Tridoshic,Post-meal digestive
+S013,Mustard Seeds,Spice,508,28,26,36,Katu,Tikshna,Ushna,Katu,Balances Kapha & Vata; increases Pitta,Stimulant
+S014,Nutmeg,Spice,525,49,6,36,"Katu, Tikta, Kashaya","Laghu, Tikshna",Ushna,Katu,Balances Vata & Kapha; increases Pitta,"Sedative, sleep aid"
+S015,Saffron,Spice,310,65,11,6,"Katu, Tikta",Snigdha,Ushna,Katu,Tridoshic,"Improves complexion, aphrodisiac"
+S022,Bay Leaf,Spice,313,75,7.6,8.4,"Katu, Tikta","Laghu, Tikshna",Ushna,Katu,Balances Vata & Kapha,Aromatic digestive
+S023,Carom Seeds (Ajwain),Spice,305,43,16,25,"Katu, Tikta","Laghu, Ruksha, Tikshna",Ushna,Katu,Balances Vata & Kapha; increases Pitta,Powerful digestive
+S024,Kalonji (Nigella Seeds),Spice,447,52,16,15,"Katu, Tikta","Laghu, Ruksha",Ushna,Katu,Balances Vata & Kapha; increases Pitta,Purifying
+S025,Mace,Spice,475,51,6.7,32,"Katu, Tikta","Laghu, Snigdha",Ushna,Katu,Balances Vata & Kapha,Appetizer
+W001,Jaggery (Gur),Sweetener,383,98,0.4,0.1,Madhura,"Guru, Snigdha",Ushna,Madhura,Balances Vata; may increase Pitta & Kapha,Blood purifier
+W002,Honey (raw),Sweetener,304,82,0.3,0,"Madhura, Kashaya","Laghu, Ruksha",Ushna,Madhura,Balances Kapha; increases Pitta & Vata,"Lekhana (scraping action), carrier for herbs"
+W003,White Sugar,Sweetener,387,100,0,0,Madhura,"Guru, Snigdha",Shita,Madhura,Increases Kapha; balances Vata & Pitta,"Empty calories, depletes Ojas"
+W004,Maple Syrup,Sweetener,260,67,0,0.1,Madhura,Guru,Shita,Madhura,Balances Pitta; may increase Kapha,Mineral-rich
+W005,Stevia,Sweetener,0,0,0,0,Madhura,Laghu,Shita,Madhura,Balances Kapha & Pitta,Non-caloric
+V001,Spinach,Vegetable,23,3.6,2.9,0.4,"Kashaya, Tikta","Laghu, Ruksha",Shita,Katu,Aggravates Vata & Pitta; balances Kapha,Rich in iron
+V002,Potato,Vegetable,77,17,2,0.1,Madhura,Guru,Shita,Madhura,Balances Vata; increases Kapha,"Satiating, grounding"
+V003,Tomato,Vegetable,18,3.9,0.9,0.2,Amla,Laghu,Ushna,Madhura,Aggravates Pitta; balances Vata & Kapha,Antioxidant-rich
+V004,Carrot,Vegetable,41,10,0.9,0.2,"Madhura, Kashaya",Laghu,Shita,Madhura,Balances Vata & Kapha; increases Pitta in excess,Improves eyesight
+V005,Onion,Vegetable,40,9.3,1.1,0.1,"Katu, Madhura","Laghu, Snigdha",Ushna,Katu,Balances Vata & Kapha; increases Pitta,Blood purifier
+V006,Cucumber,Vegetable,15,3.6,0.7,0.1,"Madhura, Kashaya","Laghu, Ruksha",Shita,Madhura,Balances Pitta; may increase Vata & Kapha,"Cooling, hydrating"
+V007,Cauliflower,Vegetable,25,5,1.9,0.3,"Kashaya, Madhura","Laghu, Ruksha",Shita,Katu,Balances Pitta & Kapha; increases Vata,Aids detoxification
+V008,Broccoli,Vegetable,34,7,2.8,0.4,Kashaya,"Laghu, Ruksha",Shita,Katu,Balances Kapha & Pitta; increases Vata,Rich in fiber
+V009,Cabbage,Vegetable,25,6,1.3,0.1,"Kashaya, Madhura","Laghu, Ruksha",Shita,Katu,Balances Pitta & Kapha; increases Vata,Anti-inflammatory
+V010,Bell Pepper (Capsicum),Vegetable,31,6,1,0.3,"Katu, Madhura","Laghu, Ruksha, Tikshna",Ushna,Katu,Increases all three doshas,Stimulant
+V011,Eggplant (Brinjal),Vegetable,25,6,1,0.2,"Katu, Tikta","Laghu, Ruksha",Ushna,Katu,Balances Vata & Kapha; may increase Pitta,Aphrodisiac
+V012,Okra (Lady's Finger),Vegetable,33,7,1.9,0.2,Madhura,"Guru, Snigdha",Shita,Madhura,Balances Vata & Pitta; increases Kapha,Demulcent
+V013,Zucchini,Vegetable,17,3.1,1.2,0.3,Madhura,Laghu,Shita,Madhura,Balances Pitta & Kapha,Easy to digest
+V014,Sweet Potato,Vegetable,86,20,1.6,0.1,Madhura,Guru,Ushna,Madhura,Balances Vata; increases Kapha & Pitta,Nourishing
+V015,Pumpkin,Vegetable,26,7,1,0.1,Madhura,Laghu,Shita,Madhura,Tridoshic,Brain tonic
+V016,Radish,Vegetable,16,3.4,0.7,0.1,Katu,"Laghu, Tikshna",Ushna,Katu,Balances Kapha & Vata; aggravates Pitta,Detoxifying
+V017,Beetroot,Vegetable,43,10,1.6,0.2,Madhura,Guru,Ushna,Madhura,Balances Vata; increases Pitta & Kapha,Builds blood
+V018,Lauki (Bottle Gourd),Vegetable,14,3.4,0.6,0.02,Madhura,Laghu,Shita,Madhura,Balances Pitta,"Cooling, diuretic"
+V019,Tinda (Indian Squash),Vegetable,21,3.6,1.4,0.2,Madhura,"Laghu, Ruksha",Shita,Madhura,Tridoshic,Easy to digest
+V020,Karela (Bitter Gourd),Vegetable,17,3.7,1,0.2,"Tikta, Katu","Laghu, Ruksha",Ushna,Katu,Balances Kapha & Pitta; increases Vata,"Blood purifier, anti-diabetic"
+V021,Green Beans,Vegetable,31,7,1.8,0.1,"Madhura, Kashaya","Laghu, Ruksha",Shita,Katu,Increases Vata; balances Pitta & Kapha,Fiber-rich
+V022,Mushroom,Vegetable,22,3.3,3.1,0.3,Madhura,Guru,Shita,Madhura,Increases Kapha & Vata,Grounding
+V023,Peas,Vegetable,81,14,5,0.4,"Madhura, Kashaya","Laghu, Ruksha",Shita,Katu,Increases Vata; balances Pitta & Kapha,Protein-rich
+V024,Celery,Vegetable,16,3,0.7,0.2,Tikta,"Laghu, Ruksha",Shita,Katu,Balances Kapha; increases Vata & Pitta,Nervine tonic
+V025,Lettuce,Vegetable,15,2.9,1.4,0.2,Kashaya,Laghu,Shita,Katu,Balances Kapha & Pitta; increases Vata,Cooling
+V026,Asparagus,Vegetable,20,3.9,2.2,0.1,"Madhura, Tikta",Guru,Shita,Madhura,Balances Pitta; increases Kapha,Diuretic
+V027,Turnip,Vegetable,28,6,0.9,0.1,"Katu, Tikta","Laghu, Ruksha",Ushna,Katu,Balances Kapha & Vata; increases Pitta,Detoxifying
+V028,Drumstick (Moringa),Vegetable,64,8.5,9.4,1.4,"Katu, Tikta","Laghu, Tikshna",Ushna,Katu,Balances Kapha & Vata,Highly nutritious
+V029,Ridge Gourd (Turai),Vegetable,17,3.4,1.2,0.1,Madhura,"Laghu, Snigdha",Shita,Madhura,Balances Pitta & Vata,Blood purifier
+V030,Artichoke,Vegetable,47,11,3.3,0.2,"Kashaya, Tikta","Laghu, Ruksha",Shita,Katu,Balances Kapha & Pitta,Liver tonic
+V031,Bitter Gourd,Vegetable,17,3.7,1,0.2,"Tikta, Kashaya","Laghu, Ruksha",Shita,Katu,Balances Kapha & Pitta,Blood purifier
+V032,Bottle Gourd,Vegetable,14,3.4,0.6,0.02,"Madhura, Kashaya","Laghu, Snigdha",Shita,Madhura,Balances all doshas,"Diuretic, cooling"
