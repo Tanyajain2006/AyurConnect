@@ -6,3 +6,6 @@ This project proposes a cloud-based platform for Ayurvedic practitioners, centra
 
 # Figma Prototype
 https://scoop-poll-82698318.figma.site/
+
+# Demo Video
+https://drive.google.com/file/d/1TWvGuHuYGbxtvDjT_PfPGW8-Ki12n4s1/view?usp=drivesdk
